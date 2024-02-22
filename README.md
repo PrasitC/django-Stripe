@@ -1,1 +1,2 @@
- A django application implimenting  stripe payment gateway 
+ A django application . 
+Using   stripe as  payment gateway . 
